@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.6.2
+
+- rename
+
 ## 2.6.1
 
 - Update all python packages and alpine version to solve build issues with new version of HA
