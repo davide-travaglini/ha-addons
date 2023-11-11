@@ -1,6 +1,6 @@
 {
   "name": "Maestro Gateway MUSA",
-  "version": "2.6.1",
+  "version": "2.6.2",
   "slug": "maestro_gateway_musa",
   "description": "MQTT Gateway to MCZ Maestro stoves' api",
   "url": "https://github.com/davide-travaglini/ha-addons/tree/main/maestro_gateway",
